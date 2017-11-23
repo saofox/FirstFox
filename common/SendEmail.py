@@ -2,8 +2,8 @@
 # -*- coding: UTF-8 -*-
 
 # FileName SendEmail.py
-# Author: HeyNiu
-# Created Time: 20160818
+# Author: HAO
+# Created Time: 20170818
 
 import os
 import smtplib
